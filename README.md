@@ -46,6 +46,7 @@ In working on the web server, it is your job to write code to listen for a `/api
 To use Express, you'll add the package on a ***project by project basis*** with `npm`:
 
 ```
+npm init -y
 npm install express
 ```
 
